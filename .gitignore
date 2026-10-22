@@ -1,0 +1,13 @@
+# Raw data (licensed, too large for GitHub)
+MovementP4.csv
+MovementP4.zip
+
+# Large per-pitch output (regenerate by running model3.ipynb)
+StuffPlus_Predictions.csv
+
+# Personal files
+*.MOV
+*.twb
+
+.ipynb_checkpoints/
+__pycache__/
